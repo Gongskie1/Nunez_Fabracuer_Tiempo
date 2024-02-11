@@ -1,0 +1,11 @@
+.navbar_menu_top{
+    @apply absolute rotate-45
+}
+
+.navbar_menu_middle{
+    @apply scale-0
+}
+
+.navbar_menu_bottom{
+    @apply absolute -rotate-45
+}
